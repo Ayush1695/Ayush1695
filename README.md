@@ -11,6 +11,7 @@ About Me:
 
 👉 Kaggle Master
 
+## My Day to day work snapshot:
 ![Alt Text](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
 
 <p align="center">
@@ -30,3 +31,5 @@ About Me:
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush1695&theme=radical" />
 </p>
+
+**Source of GIF and all credit for that gif goes to Google Cloud**
