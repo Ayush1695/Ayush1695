@@ -11,6 +11,7 @@ About Me:
 👉 Kaggle Master
 
 <img align="center" src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?ayushnitb" alt="Ayush Oturkar's Summary Card" />
+
 ![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?ayushnitb)
 
 <table>
