@@ -11,6 +11,10 @@ About Me:
 👉 Kaggle Master
 
 <img align="center" src= "https://media.licdn.com/dms/image/C4E22AQEuIT17_pCxow/feedshare-shrink_800/0/1676872807257?e=1683158400&v=beta&t=lg4XzVGfQC_aXLhWNqHvKbMR4y5njJ5E24iVMWFSMjY" />
+
+![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?ayushnitb)
+
+
 <table>
 <tr>
 <td>
