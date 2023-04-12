@@ -8,6 +8,8 @@ About Me:
 
 👉 Data Science Fanatic ✊
 
+👉 Kaggle Master
+
 <!--
 **Ayush1695/Ayush1695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
