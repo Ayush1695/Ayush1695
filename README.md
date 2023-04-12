@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <table>
 <tr>
 <td>
+<img align="center" src= "https://cdn.hashnode.com/res/hashnode/image/upload/v1622730874517/3g7G6Hv-W.jpeg" />
 <img src="https://github-readme-stats.vercel.app/api?username=Ayush1695&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayush1695&show_icons=true&locale=en&layout=compact&theme=radical" />
 </td>
