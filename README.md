@@ -1,7 +1,8 @@
 About Me:
-![Alt Text](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
-![image](https://user-images.githubusercontent.com/36852822/231582002-c5310284-fcfd-448d-8efc-6b86e6a049a0.png)
 
+## Hi its Ayush 
+
+![Alt Text](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
 
 👉 Graduate student with 4 years of prior Data Science experience in delivering data-driven solutions using cutting-edge AI/ML to healthcare & CPG behemoths.
 
