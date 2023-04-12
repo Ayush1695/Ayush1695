@@ -1,4 +1,4 @@
-### Hi there 👋
+About Me:
 
 👉 Graduate student with 4 years of prior Data Science experience in delivering data-driven solutions using cutting-edge AI/ML to healthcare & CPG behemoths.
 
