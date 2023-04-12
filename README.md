@@ -13,7 +13,9 @@
 👉 Kaggle Master
 
 ## My Day to day work snapshot:
-![Alt Text](https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif)
+<p align="center">
+  <img src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif" alt="Alt Text">
+</p>
 
 
 ## Kaggle Standings
