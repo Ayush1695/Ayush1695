@@ -1,7 +1,5 @@
 ## Hi its Ayush 👋
 
-![Alt Text](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
-
 About Me:
 👉 Graduate student with 4 years of prior Data Science experience in delivering data-driven solutions using cutting-edge AI/ML to healthcare & CPG behemoths.
 
@@ -12,6 +10,8 @@ About Me:
 👉 Data Science Fanatic ✊
 
 👉 Kaggle Master
+
+![Alt Text](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
 
 <p align="center">
 <img align="center" src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?ayushnitb" alt="Ayush Oturkar's Summary Card" />
