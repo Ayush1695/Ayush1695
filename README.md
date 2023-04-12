@@ -10,7 +10,9 @@ About Me:
 
 👉 Kaggle Master
 
+<p align="center">
 <img align="center" src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?ayushnitb" alt="Ayush Oturkar's Summary Card" />
+</p>
 
 <table>
 <tr>
