@@ -15,10 +15,12 @@
 ## My Day to day work snapshot:
 ![Alt Text](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
 
+## Kaggle Standings
 <p align="center">
 <img align="center" src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?ayushnitb" alt="Ayush Oturkar's Summary Card" />
 </p>
 
+## Github Statistics
 <table>
 <tr>
 <td>
