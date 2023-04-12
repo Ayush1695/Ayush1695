@@ -19,9 +19,10 @@
 </td>
 <td style="width: 40%;">
     
-<p align="right">
-  <img src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif" alt="Alt Text" width="400">
-</p>
+<div style="text-align: right;">
+    <h2>My Day-to-Day Work Glimpse:</h2>
+    <img src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif" alt="Alt Text" width="400">
+</div>
 
 </td>
 </tr>
