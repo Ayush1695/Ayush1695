@@ -27,12 +27,6 @@
 </tr>
 </table>
 
-## My Day-to-Day Work Glimpse:
-
-<p align="center">
-  <img src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif" alt="Alt Text" width="50%">
-</p>
-
 ## Kaggle Standings
 
 <p align="center">
