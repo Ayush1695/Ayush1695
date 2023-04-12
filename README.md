@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ayush1695)](https://git.io/streak-stats)
 
-[codeSTACKr_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Ayush1695&repo=github-readme-stats&cache_seconds=86400&theme=codeSTACKr
+[codeSTACKr_repo](https://github-readme-stats.vercel.app/api/pin/?username=Ayush1695&repo=github-readme-stats&cache_seconds=86400&theme=codeSTACKr)
