@@ -1,9 +1,8 @@
-About Me:
-
-## Hi its Ayush
+## Hi its Ayush 👋
 
 ![Alt Text](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
 
+About Me:
 👉 Graduate student with 4 years of prior Data Science experience in delivering data-driven solutions using cutting-edge AI/ML to healthcare & CPG behemoths.
 
 👉 Worked on real world problem statements majoring recommendation system, payment leakage detection, spend optimization, driver analysis and sales forecasting, image classification, fraud detection, Named Entity Recognition and many more.
