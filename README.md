@@ -20,7 +20,7 @@
 <td style="width: 40%;">
     
 <p align="right">
-  <img src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif" alt="Alt Text" width="80%">
+  <img src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif" alt="Alt Text" width="400">
 </p>
 
 </td>
