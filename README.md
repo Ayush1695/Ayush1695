@@ -12,7 +12,7 @@
 
 👉 Kaggle Master
 
-## My Day to day work snapshot:
+## My Day to day work Glimpse:
 <p align="center">
   <img src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif" alt="Alt Text">
 </p>
