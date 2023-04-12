@@ -9,6 +9,7 @@ About Me:
 👉 Data Science Fanatic ✊
 
 👉 Kaggle Master
+
 <img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?ayushnitb" alt="Ayush Oturkar's Summary Card">
 
 <table>
