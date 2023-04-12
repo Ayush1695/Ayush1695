@@ -1,6 +1,7 @@
 ## Hi its Ayush 👋
 
-About Me:
+**About Me:**
+
 👉 Graduate student with 4 years of prior Data Science experience in delivering data-driven solutions using cutting-edge AI/ML to healthcare & CPG behemoths.
 
 👉 Worked on real world problem statements majoring recommendation system, payment leakage detection, spend optimization, driver analysis and sales forecasting, image classification, fraud detection, Named Entity Recognition and many more.
