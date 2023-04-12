@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td>
+<td style="margin-right: 50px;">
     
 ## Brief Profile Summary:
 
@@ -17,15 +17,21 @@
 👉 Kaggle Master
 
 </td>
-<td>
+<td style="width: 40%;">
     
 <p align="right">
-  <img src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif" alt="Alt Text">
+  <img src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif" alt="Alt Text" width="80%">
 </p>
 
 </td>
 </tr>
 </table>
+
+## My Day-to-Day Work Glimpse:
+
+<p align="center">
+  <img src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif" alt="Alt Text" width="50%">
+</p>
 
 ## Kaggle Standings
 
