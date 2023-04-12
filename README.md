@@ -13,7 +13,7 @@
 👉 Kaggle Master
 
 ## My Day to day work snapshot:
-![Alt Text](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
+![Alt Text](https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif)
 
 ## Kaggle Standings
 <p align="center">
