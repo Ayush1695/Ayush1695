@@ -1,6 +1,6 @@
 About Me:
 
-## Hi its Ayush 
+## Hi its Ayush
 
 ![Alt Text](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)
 
