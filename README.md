@@ -1,5 +1,6 @@
 ## Hi, it's Ayush 👋
-![](https://komarev.com/ghpvc/?username=Ayush1695&color=green) and counting !
+![](https://komarev.com/ghpvc/?username=Ayush1695&color=green) 
+And counting..... !
 
 <table>
 <tr>
