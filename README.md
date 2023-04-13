@@ -10,7 +10,7 @@ And counting..... !
 
 
 <p align="center">
-Reach me out at ➡️ &nbsp;
+Reach me out at 👉 &nbsp;
 <a href= "https://www.kaggle.com/ayushnitb" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="ayushnitb" height="30" width="30" /></a>&nbsp;
 <a href="https://twitter.com/oturkar_ayush" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="oturkar_ayush" height="30" width="30" /></a>&nbsp;
 <a href= "https://www.linkedin.com/in/ayushoturkarnitb/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="ayushoturkarnitb" height="30" width="30" /></a>&nbsp;
