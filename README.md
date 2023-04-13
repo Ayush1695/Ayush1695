@@ -1,6 +1,5 @@
-## Hi, it's Ayush 👋
 <p align="center">
-<img align="center" src= "https://en.bloggif.com/tmp/ef2700aafbbbb3ffe3676ecfae614853/text.gif?1681413073" />
+<img align="center" src= "https://en.bloggif.com/tmp/ef2700aafbbbb3ffe3676ecfae614853/text.gif?1681413296" />
 </p>
 
 
