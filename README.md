@@ -48,12 +48,20 @@ And counting..... !
 <img align="center" src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?ayushnitb" alt="Ayush Oturkar's Summary Card" />
 </p>
 
+## What I hope to achieve:
+
+<p align="center">
+<img align="center" src= "https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif" />
+</p>
+
+---Complete ML Life Cycle Architect--
+
 ## GitHub Statistics
 
 <table>
 <tr>
 <td>
-    
+   
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush1695&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=radical"/>
 </p>
@@ -72,3 +80,6 @@ And counting..... !
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush1695&theme=radical" />
 </p>
+
+
+Gif Credit: Google Cloud
