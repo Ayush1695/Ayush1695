@@ -7,7 +7,7 @@ And counting..... !
 <p align="center">
 <a href= "https://www.kaggle.com/ayushnitb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ayushnitb" height="30" width="30" /></a>&nbsp;
 <a href="https://twitter.com/oturkar_ayush" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="oturkar_ayush" height="30" width="30" /></a>&nbsp;
-<a href= "https://www.linkedin.com/in/ayushoturkarnitb/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayushoturkarnitb" height="30" width="30" /></a>&nbsp;
+<a href= "https://www.linkedin.com/in/ayushoturkarnitb/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="ayushoturkarnitb" height="30" width="30" /></a>&nbsp;
 <a href="http://discord.com/users/ayush1695#3473" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ayush1695#3473" height="40" width="30" /></a>&nbsp;
 <a href="https://www.buymeacoffee.com/ayushoturk2"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
