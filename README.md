@@ -26,7 +26,7 @@ And counting..... !
 
 👉 Helped organizations generate/save more than $10 M in value realization to date. Skilled in solving complex problems using right mix of technical & business skills.
 
-👉 Data Science Fanatic ✊
+👉 Data Science Fanatic  🤟
 
 👉 Kaggle Master
 
