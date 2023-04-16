@@ -11,9 +11,9 @@ And counting..... !
 
 <p align="center">
 You can Reach me out at 👉 &nbsp;
+<a href= "https://www.linkedin.com/in/ayushoturkarnitb/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="ayushoturkarnitb" height="30" width="30" /></a>&nbsp;
 <a href= "https://github.com/Ayush1695" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/kaggle-3521526-2945029.png" height="30" width="30" /></a>&nbsp;
 <a href="https://twitter.com/oturkar_ayush" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="oturkar_ayush" height="30" width="30" /></a>&nbsp;
-<a href= "https://www.linkedin.com/in/ayushoturkarnitb/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="ayushoturkarnitb" height="30" width="30" /></a>&nbsp;
 <a href="http://discord.com/users/ayush1695#3473" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif" alt="ayush1695#3473" height="40" width="30" /></a>&nbsp;
 <a href="https://www.buymeacoffee.com/ayushoturk2"><img align="center" alt="Buy me a Coffee" width="30px" src="https://media3.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif" /></a>
 👈 You can buy me a Coffee at &nbsp;
