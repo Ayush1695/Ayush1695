@@ -4,9 +4,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=Ayush1695&color=green) 
-
-And counting..... !
+![](https://komarev.com/ghpvc/?username=Ayush1695&color=green) and counting..... !
 
 
 <p align="center">
