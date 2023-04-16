@@ -7,7 +7,7 @@
 ![](https://komarev.com/ghpvc/?username=Ayush1695&color=green)
 
 <div align="center">
-    ![](https://komarev.com/ghpvc/?username=Ayush1695&color=green&label=Visitors%20&style=flat-square) and counting...
+    ![](https://komarev.com/ghpvc/?username=Ayush1695&color=green) and counting...
 </div>
 
 <p align="center">
