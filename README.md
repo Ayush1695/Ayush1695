@@ -1,7 +1,4 @@
-<p align="center">
-<img align="center" src= "https://en.bloggif.com/tmp/1b62247346fd313446cb6bcfb7d603cf/text.gif?1681943692" />
-</p>
-
+Hi Welcome to my Page :)
 
 ![](https://komarev.com/ghpvc/?username=Ayush1695&color=green)
 
