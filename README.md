@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=D7420A&center=true&vCenter=true&width=435&lines=Hi+My+Name+is+Ayush+Oturkar+!;Welcome+to+my+Github+Page+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=050CF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+My+Name+is+Ayush+Oturkar+!;Welcome+to+my+Github+Page+!)](https://git.io/typing-svg)
 
 
 <p align="center">
