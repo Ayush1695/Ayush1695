@@ -1,5 +1,5 @@
 <div style="text-align: center">
-    <img style="display: block; margin: 0 auto;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D7420A&width=435&lines=Hi+My+Name+is+Ayush+Oturkar+!;Welcome+to+my+Github+Page+!">
+<img style="display: block; margin: 0 auto;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D7420A&width=435&lines=Hi+My+Name+is+Ayush+Oturkar+!;Welcome+to+my+Github+Page+!">
 </div>
 
 <p align="center">
