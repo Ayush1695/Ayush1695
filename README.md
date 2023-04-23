@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D7420A&width=435&lines=Hi+My+Name+is+Ayush+Oturkar+!;Welcome+to+my+Github+Page+%3A))](https://git.io/typing-svg)
 
-
 <p align="center">
 You can Reach me out at 👉 &nbsp;
 <a href= "https://www.linkedin.com/in/ayushoturkarnitb/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="ayushoturkarnitb" height="30" width="30" /></a>&nbsp;
