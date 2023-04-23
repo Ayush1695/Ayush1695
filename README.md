@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=050CF7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hi+My+Name+is+Ayush+Oturkar+!;Welcome+to+my+Github+Page+!)](https://git.io/typing-svg)
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+My+Name+is+Ayush+Oturkar+!;Welcome+to+my+Github+Page+!)" /></a>
+</p>
+
 
 <p align="center">
 You can Reach me out at 👉 &nbsp;
