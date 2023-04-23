@@ -1,6 +1,4 @@
-Hi Welcome to my Page :)
-
-![](https://komarev.com/ghpvc/?username=Ayush1695&color=green)
+## Hi Welcome to my Page :)
 
 
 <p align="center">
