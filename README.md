@@ -41,7 +41,7 @@ You can Reach me out at 👉 &nbsp;
     
 <div style="text-align: right;">
     <h2>My Day-to-Day Work Glimpse:</h2>
-    <img src="https://ideogram.ai/api/images/direct/obc8mnKpSEKiSowWO6ML1A.jpg" alt="Alt Text" width="400"> 
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*TRPMPQtUMczsLG_lKKDnoA.jpeg" alt="Alt Text" width="400"> 
 </div>
 
 </td>
