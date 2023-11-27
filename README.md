@@ -41,7 +41,7 @@ You can Reach me out at 👉 &nbsp;
     
 <div style="text-align: right;">
     <h2>My Day-to-Day Work Glimpse:</h2>
-    <img src="https://ideogram.ai/api/images/direct/obc8mnKpSEKiSowWO6ML1A.jpg" alt="Alt Text" width="400"> 
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fdata-science%2Ffinance-industry-jobs%2F&psig=AOvVaw1ElYkhJIVvSFjolojo30Fi&ust=1701145603134000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjc3Kyr44IDFQAAAAAdAAAAABBM" alt="Alt Text" width="400"> 
 </div>
 
 </td>
