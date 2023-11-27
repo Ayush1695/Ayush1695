@@ -41,7 +41,7 @@ You can Reach me out at 👉 &nbsp;
     
 <div style="text-align: right;">
     <h2>My Day-to-Day Work Glimpse:</h2>
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*TRPMPQtUMczsLG_lKKDnoA.jpeg" alt="Alt Text" width="400"> 
+    <img src="https://media.licdn.com/dms/image/D4E12AQHCFApevbmrtA/article-cover_image-shrink_720_1280/0/1684747285690?e=2147483647&v=beta&t=5jBl_gTta80Dq2cx4oqNt-PYm7bBHTrvdl_4Wyiujv0" alt="Alt Text" width="400"> 
 </div>
 
 </td>
