@@ -41,7 +41,7 @@ You can Reach me out at 👉 &nbsp;
     
 <div style="text-align: right;">
     <h2>My Day-to-Day Work Glimpse:</h2>
-    <img src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif" alt="Alt Text" width="400">
+    <img src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif" alt="Alt Text" width="400"> 
 </div>
 
 </td>
