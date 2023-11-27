@@ -26,7 +26,7 @@ You can Reach me out at 👉 &nbsp;
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Brief Profile Summary:
 
 
-👉 Graduate student with 4 years of prior Data Science experience in delivering data-driven solutions using cutting-edge AI/ML to healthcare & CPG behemoths.
+👉 Graduate student with close to 5 years of prior Data Science experience in delivering data-driven solutions using cutting-edge AI/ML to healthcare & CPG behemoths.
 
 👉 Worked on real world problem statements majoring recommendation system, payment leakage detection, spend optimization, driver analysis and sales forecasting, image classification, fraud detection, Named Entity Recognition and many more.
 
